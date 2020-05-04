@@ -133,7 +133,7 @@
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\TooltipEffect\TooltipEffect.csproj">
+    <ProjectReference Include="..\TooltipEffect\TooltipEffect.csproj">
       <Project>{83db67df-c4b2-4e30-9208-4f275b568d17}</Project>
       <Name>TooltipEffect</Name>
     </ProjectReference>

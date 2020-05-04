@@ -19,7 +19,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TooltipEffect", "TooltipEff
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TooltipEffect.Android", "TooltipEffect.Android\TooltipEffect.Android.csproj", "{C8F76AD7-0126-4580-9D3F-CA68F9BA12E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TooltipEffect.UWP", "TooltipEffect.UWP\TooltipEffect.UWP\TooltipEffect.UWP.csproj", "{87E24951-B73A-43AE-8716-ED23169F9FFD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TooltipEffect.UWP", "TooltipEffect.UWP\TooltipEffect.UWP.csproj", "{87E24951-B73A-43AE-8716-ED23169F9FFD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
