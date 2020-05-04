@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             xmlns:tooltip="clr-namespace:TooltipEffect;assembly=TooltipEffect"
+             x:Class="TooltipEffectSample.MainPage">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Label Margin="24">
+            Hover over the following controls in order to show a tooltip:</Label>
+        <Button Text="BUTTON"  tooltip:TooltipEff.Text="Hello there">
+
+        </Button>
+        <Label Text="Label"/>
+        <StackLayout Margin="12">
+            <Label Text="Stacklayout"/>
+            <Label Text="Stacklayout"/>
+            <Label Text="Stacklayout"/>
+            <Label Text="Stacklayout"/>
+            <Label Text="Stacklayout"/>
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>
